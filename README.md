@@ -1,5 +1,5 @@
 # JavaSecondCourseIndustrialProgramming
-
+- [Home](https://github.com/KristianKuznetsov/top-levelInformationRepository)
 - [Lectures](https://github.com/KristianKuznetsov/avaSecondCourseLectures)
   - Singleton
   - Abstract Factory
