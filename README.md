@@ -1,1 +1,25 @@
 # JavaSecondCourseIndustrialProgramming
+
+- [Lectures](https://github.com/KristianKuznetsov/avaSecondCourseLectures)
+  - Singleton
+  - Abstract Factory
+  - Decorator
+  - Builder
+  - Composite
+  - Visitor
+  - Facade
+  - Iterator
+- [End-to-end task](https://github.com/KristianKuznetsov/JavaSecondCourseEnd-to-endTask)
+  - Programm
+  - Tests
+- [Practice](https://github.com/KristianKuznetsov/JavaPractice)
+  - Laba 1 -> Taylor expansion of a function
+  - Laba 2 -> Working with matrices
+  - Laba 3 -> Working with strings
+  - Laba 4 -> Remove comments in text
+  - Laba 5 -> Sum of numbers in a row
+  - Laba 6 -> Bookshelf
+  - Laba 7 -> Decompose a number into prime factors + GUI
+- [Colloquiums](https://github.com/KristianKuznetsov/JavaSecondCourseColloquiums)
+  - Сolloquium 1
+  - Сolloquium 2
