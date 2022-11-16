@@ -16,10 +16,13 @@
   - Laba 1 -> Taylor expansion of a function
   - Laba 2 -> Working with matrices
   - Laba 3 -> Working with strings
-  - Laba 4 -> Remove comments in text
-  - Laba 5 -> Sum of numbers in a row
-  - Laba 6 -> Bookshelf
-  - Laba 7 -> Decompose a number into prime factors + GUI
+  - Laba 4 -> Maximum length of a monotone fragment
+  - Laba 5 -> Sapper
+  - Laba 6 -> Remove comments in text
+  - Laba 7 -> Sum of numbers in a row
+  - Laba 8 -> Bookshelf
+  - Laba 9 -> Decompose a number into prime factors + GUI
 - [Colloquiums](https://github.com/KristianKuznetsov/JavaSecondCourseColloquiums)
+  - Сolloquium Java Core
   - Сolloquium 1
   - Сolloquium 2
