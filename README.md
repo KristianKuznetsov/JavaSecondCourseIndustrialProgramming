@@ -18,7 +18,7 @@
   - Laba 3 -> Working with strings
   - Laba 4 -> [Maximum length of a monotone fragment](https://github.com/KristianKuznetsov/JavaPractice/tree/main/Maximum%20length%20of%20a%20monotone%20fragment)
   - Laba 5 -> [Sapper](https://github.com/KristianKuznetsov/JavaPractice/tree/main/Sapper)
-  - Laba 6 -> Remove comments in text
+  - Laba 6 -> [Remove comments in text](https://github.com/KristianKuznetsov/JavaPractice/tree/main/Remove%20comments%20in%20text)
   - Laba 7 -> Sum of numbers in a row
   - Laba 8 -> Bookshelf
   - Laba 9 -> Decompose a number into prime factors + GUI
