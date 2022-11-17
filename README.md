@@ -1,4 +1,4 @@
-# JavaSecondCourseIndustrialProgramming
+# Java Second Course Industrial Programming
 - [Home](https://github.com/KristianKuznetsov/top-levelInformationRepository)
 - [Lectures](https://github.com/KristianKuznetsov/avaSecondCourseLectures)
   - Singleton
