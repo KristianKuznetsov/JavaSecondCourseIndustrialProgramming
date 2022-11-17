@@ -13,7 +13,7 @@
   - Programm
   - Tests
 - [Practice](https://github.com/KristianKuznetsov/JavaPractice)
-  - Laba 1 -> Taylor expansion of a function
+  - Laba 1 -> [Taylor expansion of a function](https://github.com/KristianKuznetsov/JavaPractice/tree/main/Taylor%20expansion%20of%20a%20function)
   - Laba 2 -> Working with matrices
   - Laba 3 -> Working with strings
   - Laba 4 -> Maximum length of a monotone fragment
